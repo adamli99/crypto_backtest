@@ -49,6 +49,9 @@ env/
 *.png
 crypto_trading_results.png
 
+# Original notebook (optional - uncomment if you want to exclude it)
+# BinanceUSA_bot.ipynb
+
 # OS
 .DS_Store
 Thumbs.db
